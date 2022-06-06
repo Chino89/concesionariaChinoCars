@@ -1,0 +1,75 @@
+
+// console.log('--------------------------------------')
+// console.log('--------------------------------------')
+// console.log('--------------------------------------')
+// console.log('Pruebo buscar autos')
+// console.log(concesionaria.buscarAuto("APL123"));
+// console.log('Pruebo un auto que no existe')
+// console.log(concesionaria.buscarAuto("JJK117"));
+// console.log('--------------------------------------')
+// console.log('--------------------------------------')
+// console.log('Pruebo vender Ford')
+// console.log(concesionaria.venderAuto("APL123"))
+// console.log(concesionaria.autos)
+// console.log('pruebo vender Toyota')
+// console.log(concesionaria.venderAuto("JJK116"))
+// console.log(concesionaria.autos)
+// console.log('--------------------------------------')
+// console.log('--------------------------------------')
+// console.log('Funcion Autos para la venta')
+//console.log(concesionaria.autosParaLaVenta())
+// console.log('--------------------------------------')
+// console.log('--------------------------------------')
+// console.log('Funcion Autos nuevos')
+// console.log(concesionaria.autosNuevos())
+// console.log('--------------------------------------')
+// console.log('--------------------------------------')
+// console.log('Funcion Lista de Ventas')
+//console.log(concesionaria.listaDeVentas());
+// console.log(concesionaria.totalDeVentas());
+// console.log('--------------------------------------')
+// console.log('--------------------------------------')
+// console.log('Prueba Juan compra Toyota');
+// console.log(concesionaria.puedeComprar(    {
+//     marca : "Toyota",
+//     modelo : "Corolla",
+//     precio : 100000,
+//     km : 0,
+//     color : "Blanco",
+//     cuotas : 14,
+//     anio : 2019,
+//     patente : "JJK116",
+//     vendido :  false,
+// },
+//     {
+//     nombre: 'Juan',
+//     capacidadDePagoEnCuotas: 20000,
+//     capacidadDePagoTotal: 100000
+//     }));
+// console.log('Prueba Juan compra Ford');
+// console.log(concesionaria.puedeComprar(    {
+//     marca : "Ford",
+//     modelo : "Fiesta",
+//     precio : 150000,
+//     km : 200,
+//     color : "Azul",
+//     cuotas : 12,
+//     anio : 2019,
+//     patente : "APL123",
+//     vendido :  false,
+// },
+//     {
+//     nombre: 'Juan',
+//     capacidadDePagoEnCuotas: 20000,
+//     capacidadDePagoTotal: 100000
+//     }));
+// console.log('--------------------------------------')
+// console.log('--------------------------------------')
+// console.log('Funcion Autos que Puede comprar Juan')
+// console.log(
+//   concesionaria.autosQuePuedeComprar({
+//     nombre: "Juan",
+//     capacidadDePagoEnCuotas: 20000,
+//     capacidadDePagoTotal: 100000,
+//   })
+// );
